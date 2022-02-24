@@ -5,6 +5,6 @@ There are only two main files. 'Resources' and 'Index.html'
 
 In first folder('Resources'), You will find two Sub_files .First one is CSS File ('Style.CSS') and The second one is image file which contains all images used in the Project.
 
-So,open The HTML FIle and Follow the Code.
+So,open the HTML File and follow the code.
 
-Okay Thanks,Have Fun.
+Okay Thanks,have Fun.
