@@ -16,7 +16,7 @@
     margin:0;
 }
 .header{
-    background-image: url("./images/Gymnasium.jpg");
+    background-image: url("https://github.com/Shahzad-Ali-Balti/GYM-Website-for-Beginners/blob/main/Resources/images/Gymnasium.jpg");
     background-repeat:no-repeat;
     height:100vh;
  }
